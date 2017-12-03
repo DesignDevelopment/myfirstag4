@@ -1,0 +1,19 @@
+.bannerimage {
+    position: absolute;
+}
+
+.bannertext {
+    position: fixed;
+    right: 15%;
+    width: 30%;
+    top: 38vh;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+.bannertext h1 {
+    font-size: 4em;
+}
+
+.bannertext p {
+    font-size: 1.4em;
+}
